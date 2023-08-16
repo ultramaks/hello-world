@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1><font color="blue">New user Register for DevOps Learning from UltraMax</font></h1>
+    <h1><font color="green">New user Register for DevOps Learning from UltraMax</font></h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
